@@ -1,0 +1,3 @@
+dom.ontouchstart = function(event){
+    
+};
